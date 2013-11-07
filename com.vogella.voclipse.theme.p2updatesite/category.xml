@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.vogella.voclipse.theme.feature_1.0.0.qualifier.jar" id="com.vogella.voclipse.theme.feature" version="1.0.0.qualifier">
+      <category name="theme"/>
+   </feature>
+   <bundle id="com.vogella.voclipse.theme.plugin" version="1.0.0.qualifier">
+      <category name="theme"/>
+   </bundle>
+   <category-def name="theme" label="Eclipse Theme"/>
+</site>
