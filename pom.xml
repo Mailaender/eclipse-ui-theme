@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.vogella.voclipse.theme</groupId>
+	<artifactId>com.vogella.voclipse.theme.parent</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>com.vogella.voclipse.theme.plugin</module>
+		<module>com.vogella.voclipse.theme.feature</module>
+		<module>com.vogella.voclipse.theme.p2updatesite</module>
+	</modules>
+</project>
